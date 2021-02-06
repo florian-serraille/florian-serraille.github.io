@@ -1,0 +1,2 @@
+(this["webpackJsonpflorian-serraille.github.io"]=this["webpackJsonpflorian-serraille.github.io"]||[]).push([[0],{10:function(e,i,r){"use strict";r.r(i);r(1);var n=r(3),t=r.n(n),s=(r(8),r(0));var o=function(){return Object(s.jsx)("div",{className:"App",children:Object(s.jsx)("h1",{children:"florian-serraille.github.io"})})};t.a.render(Object(s.jsx)(o,{}),document.getElementById("root"))},8:function(e,i,r){}},[[10,1,2]]]);
+//# sourceMappingURL=main.aa8ffdc5.chunk.js.map
